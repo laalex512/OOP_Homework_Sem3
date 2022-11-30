@@ -4,6 +4,7 @@ import Homework3.LearningGroup.LearningGroup;
 import Homework3.LearningGroup.LearningGroupService;
 import Homework3.Streams.StreamComparatorImpl;
 import Homework3.Streams.StreamImpl;
+import Homework3.Streams.StreamService;
 import java.util.ArrayList;
 
 public class Controller {
@@ -32,7 +33,7 @@ public class Controller {
 		streamList.add(stream3);
 
 		System.out.println(streamList);
-		streamList.sort(new StreamComparatorImpl());
+		StreamService.sortedStreams(streamList);
 		System.out.println(streamList);
 	}
 }
