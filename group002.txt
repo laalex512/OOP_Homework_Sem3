@@ -1,0 +1,8 @@
+Teacher: Ivan 20.05.1980 Mathematic
+Students:
+Petr 03.08.2000 7061
+Lena 05.12.2001 7062
+Alex 05.12.1999 7063
+Petr 03.08.2000 7064
+Lena 05.12.2001 7065
+Alex 05.12.1999 7066

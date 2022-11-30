@@ -1,0 +1,5 @@
+Teacher: Petr 20.05.1983 Phisic
+Students:
+Petr 03.08.2000 7086
+Lena 05.12.2001 7087
+Alex 05.12.1999 7088
